@@ -1,2 +1,2 @@
 # Interactive-Map
-Made this for a friend, it was really simple to code =w=
+[Demo](https://codepen.io/YellowGregs/pen/BagaabE)
